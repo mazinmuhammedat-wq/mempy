@@ -1,0 +1,7 @@
+# Block intermediate object files
+*.o
+*.obj
+
+# Block compiled executables
+compiler
+a.out
